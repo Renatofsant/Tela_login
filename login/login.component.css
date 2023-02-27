@@ -1,0 +1,11 @@
+form {
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 500px;
+  height: 30px;
+  margin-left: 180px;
+  margin-top: 25px;
+}
